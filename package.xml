@@ -6,6 +6,7 @@
         <name>CustomLabel</name>
     </types>
     <types>
+        <members>AutotestM8_Custom_Object4__c</members>
         <members>AutotestM8_Custom_object2__c</members>
         <name>CustomObject</name>
     </types>
