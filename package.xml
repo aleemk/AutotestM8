@@ -5,4 +5,8 @@
         <members>AutotestM8_Custom_label2</members>
         <name>CustomLabel</name>
     </types>
+    <types>
+        <members>AutotestM8_Custom_object2__c</members>
+        <name>CustomObject</name>
+    </types>
 </Package>
