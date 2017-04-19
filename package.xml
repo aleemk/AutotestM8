@@ -6,4 +6,18 @@
         <members>demo11__c</members>
         <name>CustomObject</name>
     </types>
+    <types>
+        <members>demo10__c-demo10 Layout</members>
+        <members>demo11__c-demo11 Layout</members>
+        <members>demo13__c-demo13 Layout</members>
+        <members>demo14__c-demo14 Layout</members>
+        <members>practice__c-practice Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>Case.AllOpenCases</members>
+        <members>Case.MyCases</members>
+        <members>Case.MyOpenCases</members>
+        <name>ListView</name>
+    </types>
 </Package>
