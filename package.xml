@@ -8,6 +8,13 @@
     <types>
         <members>AutotestM8_Custom_Object4__c</members>
         <members>AutotestM8_Custom_object2__c</members>
+        <members>Fundraiser__c</members>
+        <members>Vehicle__c</members>
         <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Fundraiser__c</members>
+        <members>Vehicle__c</members>
+        <name>CustomTab</name>
     </types>
 </Package>
