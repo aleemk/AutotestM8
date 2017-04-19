@@ -7,6 +7,14 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>Account.NumberofLocations__c</members>
+        <members>Account.SLAExpirationDate__c</members>
+        <members>Opportunity.MainCompetitors__c</members>
+        <members>Opportunity.OrderNumber__c</members>
+        <members>Opportunity.TrackingNumber__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
         <members>AutotestM8_Custom_label2</members>
         <name>CustomLabel</name>
     </types>
