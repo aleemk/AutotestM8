@@ -7,4 +7,11 @@
         <shortDescription>AutotestM8_Custom_label2</shortDescription>
         <value>Test custom label 2</value>
     </labels>
+    <labels>
+        <fullName>custom_label1_1942017</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>custom label1</shortDescription>
+        <value>this is my first custom label in the second org</value>
+    </labels>
 </CustomLabels>
