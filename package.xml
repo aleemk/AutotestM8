@@ -10,6 +10,8 @@
     <types>
         <members>Account.NumberofLocations__c</members>
         <members>Account.SLAExpirationDate__c</members>
+        <members>Case.PotentialLiability__c</members>
+        <members>Case.Product__c</members>
         <members>Opportunity.MainCompetitors__c</members>
         <members>Opportunity.OrderNumber__c</members>
         <members>Opportunity.TrackingNumber__c</members>
